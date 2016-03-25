@@ -11,6 +11,8 @@ Special thanks to [Brett Kuprel](http://stanford.edu/~kuprel/) of Sebastian Thru
 to hack into Google's pretrained ImageNet weights for finetuning.
 
 ## OverFeat Installation & Training
+
+[![Join the chat at https://gitter.im/Russell91/TensorBox](https://badges.gitter.im/Russell91/TensorBox.svg)](https://gitter.im/Russell91/TensorBox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 First, [install TensorFlow from source or pip](https://www.tensorflow.org/versions/r0.7/get_started/os_setup.html#pip-installation)
     
     $ git clone http://github.com/russell91/tensorbox
